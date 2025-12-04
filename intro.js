@@ -1,7 +1,7 @@
 const myName = " Taiwo Peace Fiyinfoluwa";
 const myAge = 19;
-const myHobby = 'learning, Teaching';
-const programmingLanguage = 'BackendDevelopment'
+const myHobby = 'Learning, Teaching';
+const programmingLanguage = 'Backend Development'
 
 console.log(myName)
   
@@ -11,7 +11,7 @@ console.log(myName)
 const user = {
     myAge: 19,
     myName : "Taiwo Peace Fiyinfoluwa",
-    myHobby : 'reading, learning',
+    myHobby : 'Teaching, Learning',
     programmingLanguage : "Backend Development"
 
 }
