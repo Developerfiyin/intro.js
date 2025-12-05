@@ -1,10 +1,10 @@
-const myName = " Taiwo Peace Fiyinfoluwa";
+const myName = " Taiwo Peace Fiyinfoluwa" ;
 const myAge = 19;
 const myHobby = 'Learning, Teaching';
 const programmingLanguage = 'Backend Development'
 
-console.log(myName)
-  
+console.log(myName);
+  document.writeln(myAge + " " + myName)
    /*OR USING OBJECTS
     ACCORDING TO THE LECTURE, OBJECTS IS USED TO STORE USERS INFORMATION*/
 
