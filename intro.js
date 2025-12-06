@@ -1,7 +1,8 @@
 const myName = " Taiwo Peace Fiyinfoluwa" ;
 const myAge = 19;
 const myHobby = 'Learning, Teaching';
-const programmingLanguage = 'Backend Development'
+const programmingLanguage = 'Backend Development';
+const schoolOfTech = "BeTechified"
 
 console.log(myName);
   document.writeln(myAge + " " + myName)
@@ -12,6 +13,7 @@ const user = {
     myAge: 19,
     myName : "Taiwo Peace Fiyinfoluwa",
     myHobby : 'Teaching, Learning',
-    programmingLanguage : "Backend Development"
+    programmingLanguage : "Backend Development",
+    schoolOfTech : "BeTechified"
 
 } 
