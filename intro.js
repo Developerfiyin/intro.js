@@ -7,11 +7,11 @@ console.log(myName);
   document.writeln(myAge + " " + myName)
    /*OR USING OBJECTS
     ACCORDING TO THE LECTURE, OBJECTS IS USED TO STORE USERS INFORMATION*/
-
+ 
 const user = {
     myAge: 19,
     myName : "Taiwo Peace Fiyinfoluwa",
     myHobby : 'Teaching, Learning',
     programmingLanguage : "Backend Development"
 
-}
+} 
